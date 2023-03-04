@@ -1,5 +1,5 @@
 class My {
   hello() {
-    alert("hixxx");
+    alert("hixxxxxx");
   }
 }
