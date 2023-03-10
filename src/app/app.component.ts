@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'miaApp';
 
   hello() {
-   alert("xxxxx");
+   alert("mmmm");
   }
 }
